@@ -1,0 +1,9 @@
+let myId = document.getElementById("divId");
+myId.style.color = "blue";
+myId.style.backgroundColor = "yellow";
+myId.style.margin = " 20px";
+myId.style.padding = "10px";
+myId.style.fontSize = "18px";
+myId.style.fontWeight = "bold";
+myId.style.height = "200px";
+myId.style.width = "300px";
